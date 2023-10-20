@@ -30,6 +30,7 @@ class App extends Component {
       }));
     }
   };
+  //a
 
   handleOperatorClick = (operator) => {
     const { currentInput, evaluated, expression } = this.state;
